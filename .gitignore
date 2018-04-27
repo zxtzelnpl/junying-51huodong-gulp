@@ -8,7 +8,7 @@
 out
 gen
 node_modules
-src/libs
+libs
 src/css
 src/cssmin
 src.rar
