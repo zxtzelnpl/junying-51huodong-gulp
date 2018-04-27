@@ -1,0 +1,22 @@
+{
+  "name": "junyin-cjtglmfwh-less",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "was <zxt_zel_npl@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^7.0.0",
+    "animate.css": "animate-css#^3.5.2",
+    "zepto": "^1.2.0"
+  }
+}
